@@ -18,12 +18,12 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-    ### Que fue lo que mas te gusto de tu desarrollo:
+### Que fue lo que mas te gusto de tu desarrollo:
 
-    ### Si hubieras tenido mas tiempo que hubieras hecho
+### Si hubieras tenido mas tiempo que hubieras hecho
 
-    ### Problemas encontrados en la realización de l proyecto
+### Problemas encontrados en la realización de l proyecto
 
 
-    ##Despliegue:
+### Despliegue:
     :point_right: https://gracious-morse-b3f7aa.netlify.app/
